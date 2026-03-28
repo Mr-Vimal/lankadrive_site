@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0f172a"/><stop offset="0.55" stop-color="#1d4ed8"/><stop offset="1" stop-color="#e11d48"/></linearGradient></defs>
+<rect width="1400" height="900" fill="url(#g)"/>
+<circle cx="1180" cy="140" r="180" fill="rgba(255,255,255,0.08)"/>
+<circle cx="180" cy="760" r="220" fill="rgba(255,255,255,0.07)"/>
+<g fill="none" stroke="rgba(255,255,255,0.78)" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
+<path d="M370 560c15-55 62-107 135-129 46-14 207-15 255 0 56 17 105 52 133 129"/>
+<path d="M296 588h820"/>
+<path d="M418 590c-4 52-42 95-95 95s-96-43-96-95 43-95 96-95 91 43 95 95Z"/>
+<path d="M1099 590c-4 52-42 95-95 95s-96-43-96-95 43-95 96-95 91 43 95 95Z"/>
+<path d="M503 427l90-94h218l122 94"/>
+<path d="M500 440h430"/>
+</g>
+<text x="110" y="180" font-size="72" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="white">About LankaDrive</text>
+<text x="110" y="250" font-size="34" font-family="Arial, Helvetica, sans-serif" fill="#dbeafe">Trusted Colombo dealership</text>
+<text x="110" y="804" font-size="28" font-family="Arial, Helvetica, sans-serif" fill="#fde68a">LankaDrive Auto Sales</text>
+</svg>
